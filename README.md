@@ -56,4 +56,4 @@ Model Accuracy: My global model achieves high accuracy by learning from diverse 
 💡 Motivation
 In the healthcare sector, data privacy (HIPAA compliance) is critical. Through this project, I demonstrate how decentralized AI can solve the "Data Silos" problem, allowing hospitals to collaborate on better healthcare solutions without compromising patient confidentiality.
 
-Ab yeh tere GitHub ke liye perfect hai! Isme ab tera ownership dikh raha hai. Kuch aur change karna ho toh bata, warna ise seedha GitHub par daal de!
+
