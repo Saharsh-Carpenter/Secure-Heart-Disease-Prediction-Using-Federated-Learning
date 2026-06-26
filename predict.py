@@ -36,3 +36,7 @@ if prediction[0][0] > 0.5:
     print("Prediction: Heart disease detected")
 else:
     print("Prediction: No heart disease")
+
+# updated for deployment
+
+
