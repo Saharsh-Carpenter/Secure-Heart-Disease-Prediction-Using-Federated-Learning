@@ -2,6 +2,8 @@ Heart Disease Prediction using Federated Learning
 link-https://secure-heart-disease-prediction-using-federated-learning-mxbap.streamlit.app/
 I have developed this Privacy-Preserving Federated Learning architecture to predict heart disease risk. Unlike centralized machine learning, I have designed this system to ensure that sensitive patient data remains local at the hospital level, while only the model insights (weights) are shared to train a robust global model.
 
+✅Accuracy: 98.36%
+
 🏗️ System Workflow
 I have structured the workflow to simulate a real-world decentralized hospital network:
 
